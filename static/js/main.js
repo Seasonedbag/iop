@@ -1,0 +1,1 @@
+console.log('PWA JS loaded');
